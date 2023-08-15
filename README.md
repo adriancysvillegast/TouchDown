@@ -2,6 +2,13 @@
 
 This app was made using SwiftUI.
 This is an E-commerce app.
+topics: 
+- Environment properties
+- Observable Objects
+- Work with custom shape (Shape path)
+- Grid Layout
+- Navigation bar
+- Gestures with UIImpactFeedbackGenerator (haptics)
 
 ![Simulator Screen Recording - iPhone 12 Pro Max - 2023-08-15 at 18 43 08](https://github.com/adriancysvillegast/TouchDown/assets/81894293/a37eaa53-c85b-49db-88b8-5051946dd723)
 
@@ -10,10 +17,3 @@ This is an E-commerce app.
 ![Simulator Screen Shot - iPhone 12 Pro Max - 2023-08-15 at 18 44 41](https://github.com/adriancysvillegast/TouchDown/assets/81894293/c1e614d9-b368-43d7-912a-a2ee9ac531c4)
 
 
-topics: 
-- Environment properties
-- Observable Objects
-- Work with custom shape (Shape path)
-- Grid Layout
-- Navigation bar
-- Gestures with UIImpactFeedbackGenerator (haptics)
